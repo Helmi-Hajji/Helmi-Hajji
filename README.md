@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Android App**
 
-- 🌱 I’m currently learning **Flatter**
+- 🌱 I’m currently learning **Flutter**
 
-- 🤝 I’m looking for help with **Flatter And React**
+- 🤝 I’m looking for help with **Flutter And React**
 
 - 📫 How to reach me **helmihajji16@gmail.com**
 
